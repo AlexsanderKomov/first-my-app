@@ -1,0 +1,9 @@
+.fr {
+   text-align: center;
+   padding-top: 70px;
+}
+
+
+.friends {
+   display: flex;
+}
